@@ -1,0 +1,160 @@
+body {
+	background: url(images/background.png)repeat-x;
+}
+img {
+	max-width: 100% !important;
+
+}
+header .logo_min {
+	min-width:250px;
+}
+.margin-top {
+	margin-top: 50px;
+}
+
+
+h2 {
+	color:#757575;
+	font-size: 115%;
+	font-weight: bold;
+	margin: 28px 0 17px 0;
+	border-bottom: 1px solid #F0F1F2;
+	padding: 0 30px 10px 0;
+}
+h3 {
+	margin: 0;
+	font-size: 100%;
+	font-weight: bold;
+	color: #1d9650;
+	border-bottom: 1px solid #f8d9d0;
+	padding: 0 5px 5px 0;
+}
+.margin {
+	margin:0 0 0 162px;
+}
+.top {
+	margin-top: 10px;
+}
+.min {
+	margin-top: 5px;
+}
+@media screen and (max-width: 991px) {
+	.margin {
+		margin: 0;
+
+	}
+}
+	.aw {
+		padding-left: 0;	
+	}
+	@media screen and (max-width: 768px) {
+		.meow {
+			float: left;
+		}
+	}
+.margin-ul {
+	margin-bottom: 30px;
+}
+ ul li{
+	list-style: none;
+	padding: 6px 10px 6px 15px;
+	border-bottom: 1px solid #f8d9d0;
+	font-size: 85%;
+	text-decoration: none;
+	
+}
+ ul li a {
+	text-decoration: none;
+	color: #737373;
+}
+ li li {
+	border-bottom: none;
+	border-top: 1px solid #f8d9d0;
+	margin: 3px -10px -3px -15px !important;
+	padding:5px 0 5px 30px;
+	font-size: 97%;
+}
+ ul li a:hover {
+	text-decoration: underline;
+	color: #1d9650;
+
+} 	
+ ul {
+	padding: 0;
+}
+footer {
+	margin-top: 30px;
+	background: url(images/footer-border.png)repeat-x #49686a;
+}
+.foot {
+	margin-top: 45px;	
+	margin-bottom: 25px;
+}
+.foot a {
+	font-size: 65%;
+	color: white;
+}
+.foot a:hover {
+	color:  #1d9650;
+}
+@media screen and (max-width: 485px) {
+	.foot a {
+		font-size: 60%;
+	}
+
+}
+@media screen and(max-width: 767px) {
+	.col-xs-7 {
+  width: 100%;
+}
+.col-xs-6 {
+  width: 50%;
+}
+.col-xs-5 {
+  width: 100%;
+}
+}
+#list #fb-share {
+	float: left;
+	padding-right:10px;
+}
+
+#list #twitter-share {
+	float: left;
+}
+
+#list #pinterest-share {
+	float: left;
+	padding-left:10px;
+}
+
+@media screen and (max-width: 369px) {
+	#list #fb-share {
+	float: left;
+	margin-top:3px;
+	padding-right:15px;
+}
+
+#list #twitter-share {
+	float: left;
+	margin-top:3px;
+}
+
+#list #pinterest-share {
+	float: left;
+	margin-top:3px;
+}
+
+.footer-ad {
+
+width:728px;
+height:90px;
+
+}
+
+.header-ad {
+width:728px;
+height:90px;
+
+}
+
