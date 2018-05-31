@@ -45,7 +45,7 @@ h3 {
 	}
 }
 	.aw {
-		padding-left: 0;	
+		padding-left: 0;
 	}
 	@media screen and (max-width: 768px) {
 		.meow {
@@ -61,7 +61,7 @@ h3 {
 	border-bottom: 1px solid #f8d9d0;
 	font-size: 85%;
 	text-decoration: none;
-	
+
 }
  ul li a {
 	text-decoration: none;
@@ -78,7 +78,7 @@ h3 {
 	text-decoration: underline;
 	color: #1d9650;
 
-} 	
+}
  ul {
 	padding: 0;
 }
@@ -87,7 +87,7 @@ footer {
 	background: url(images/footer-border.png)repeat-x #49686a;
 }
 .foot {
-	margin-top: 45px;	
+	margin-top: 45px;
 	margin-bottom: 25px;
 }
 .foot a {
@@ -157,4 +157,3 @@ width:728px;
 height:90px;
 
 }
-
