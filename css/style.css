@@ -38,6 +38,29 @@ h3 {
 .min {
 	margin-top: 5px;
 }
+
+
+.list-item-heading{
+	display: flex;
+	justify-content: space-between;
+
+}
+
+.list-item-image{
+ float: right;
+}
+
+li::after{
+	content: '';
+	display: table;
+ clear: both;
+}
+
+.list-item-image{
+ height: 26px;
+
+} 
+
 @media screen and (max-width: 991px) {
 	.margin {
 		margin: 0;
