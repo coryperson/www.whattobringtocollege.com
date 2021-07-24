@@ -59,7 +59,7 @@ li::after{
 .list-item-image{
  height: 26px;
 
-} 
+}
 
 @media screen and (max-width: 991px) {
 	.margin {
@@ -166,17 +166,4 @@ footer {
 #list #pinterest-share {
 	float: left;
 	margin-top:3px;
-}
-
-.footer-ad {
-
-width:728px;
-height:90px;
-
-}
-
-.header-ad {
-width:728px;
-height:90px;
-
 }
