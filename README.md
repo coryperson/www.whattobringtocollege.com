@@ -6,4 +6,4 @@ It has existed under several different names over the years, but its unique visi
 
 Built using Bootstrap. Monetized using Google AdSense and Amazon Associates.
 
-It has since been replaced with a more modern look using Ghost as a platform.
+It has since been replaced with a more modern look using WordPress as a platform.
